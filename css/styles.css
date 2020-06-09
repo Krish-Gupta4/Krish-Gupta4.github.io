@@ -12,5 +12,5 @@
   margin:auto;
 }
 .tab { margin-left: 40px; }
-img.with-text {  float: right;  max-width: 50%;  height: auto; } 
+img.with-text {  float: center;  max-width: 35%;  height: auto; } 
 .clearfix:after {   content: " ";    visibility: hidden;   display: block;   height: 0;   clear: both; }
